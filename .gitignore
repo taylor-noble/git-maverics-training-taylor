@@ -1,2 +1,4 @@
 maverics.env
 maverics_data/certs/
+maverics_data/*.pem
+maverics_data/secrets.yaml
